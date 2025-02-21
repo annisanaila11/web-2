@@ -1,0 +1,27 @@
+1. Jelaskan apa yang dimaksud dengan dokumen root ?  
+direktori atau file utama yang menjadi titik awal untuk suatu struktur atau aplikasi.
+
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori 
+C:\xampp\htdocs ? Jelaskan jawaban anda 
+Tidak, dokumen root pada Apache Web Server tidak harus terletak di direktori C:\xampp\htdocs. karena, dokumen root dapat dikonfigurasi sesuai dengan keinginan pengguna.
+
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote,  add, commit, push 
+dan checkout 
+-init = Memulai repositori baru.
+-clone = Menyalin repositori yang sudah ada.
+-remote = Mengelola repositori remote.
+-add =  Menambahkan perubahan ke staging area.
+-commit = Menyimpan perubahan ke repositori lokal.  
+- push = Mengirim perubahan ke repositori remote.
+- checkout = Berpindah cabang atau mengembalikan file.
+
+4. Jelaskan perbedaan antara GitHub dan GitLab 
+GitHub lebih fokus pada kolaborasi proyek open-source dan kemudahan penggunaan dengan ekosistem besar.
+GitLab menawarkan fitur lebih lengkap dengan lebih banyak kontrol untuk perusahaan dan tim pengembangan internal, serta pilihan untuk self-hosting repositori
+
+5. Apa bedanya variable user dengan variable system ? 
+Variabel User = Spesifik untuk pengguna tertentu dan memengaruhi hanya lingkungan kerja pengguna tersebut.
+Variabel System = Mempengaruhi seluruh sistem dan dapat diakses oleh semua pengguna yang ada di sistem tersebut.
+
+6. Apa persamaan variable system dengan variable constant ?
+nilai mereka tidak dapat diubah dengan sembarangan dan digunakan untuk tujuan pengaturan atau stabilitas. Variabel system mengatur pengaturan dasar sistem, sementara variabel constant mengatur nilai-nilai tetap dalam aplikasi atau program.
